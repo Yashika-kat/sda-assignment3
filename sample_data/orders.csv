@@ -1,0 +1,21 @@
+Order_ID,Timestamp,Customer_ID,Product_ID,Product_Name,Category,Quantity,Unit_Price,Total_Amount,Payment_Status,City,Order_Status
+ORD00001,2026-09-01 19:17:22,CUST0001,PRD1002,Wireless Mouse,Electronics,1,899,899,Success,Hyderabad,Placed
+ORD00002,2026-09-01 19:17:27,CUST0002,PRD1002,Wireless Mouse,Electronics,1,899,899,Success,Hyderabad,Placed
+ORD00003,2026-09-01 19:17:32,CUST0003,PRD1003,Running Shoes,Fashion,1,2499,2499,Success,Mumbai,Placed
+ORD00004,2026-09-01 19:17:37,CUST0004,PRD1001,Bluetooth Speaker,Electronics,4,2199,8796,Failed,Delhi,Payment Failed
+ORD00005,2026-09-01 19:17:42,CUST0005,PRD1001,Bluetooth Speaker,Electronics,4,2199,8796,Pending,Hyderabad,Placed
+ORD00006,2026-09-01 19:17:47,CUST0006,PRD1001,Bluetooth Speaker,Electronics,3,2199,6597,Success,Hyderabad,Placed
+ORD00007,2026-09-01 19:17:52,CUST0007,PRD1001,Bluetooth Speaker,Electronics,2,2199,4398,Success,Delhi,Placed
+ORD00008,2026-09-01 19:17:57,CUST0008,PRD1002,Wireless Mouse,Electronics,3,899,2697,Success,Delhi,Placed
+ORD00009,2026-09-01 19:18:02,CUST0009,PRD1003,Running Shoes,Fashion,2,2499,4998,Success,Pune,Placed
+ORD00010,2026-09-01 19:18:07,CUST0010,PRD1003,Running Shoes,Fashion,1,2499,2499,Success,Mumbai,Placed
+ORD00011,2026-09-01 19:18:12,CUST0011,PRD1003,Running Shoes,Fashion,2,2499,4998,Success,Mumbai,Placed
+ORD00012,2026-09-01 19:18:17,CUST0012,PRD1002,Wireless Mouse,Electronics,2,899,1798,Success,Hyderabad,Placed
+ORD00013,2026-09-01 19:18:22,CUST0013,PRD1002,Wireless Mouse,Electronics,4,899,3596,Success,Hyderabad,Placed
+ORD00014,2026-09-01 19:18:27,CUST0014,PRD1001,Bluetooth Speaker,Electronics,1,2199,2199,Failed,Hyderabad,Payment Failed
+ORD00015,2026-09-01 19:18:32,CUST0015,PRD1001,Bluetooth Speaker,Electronics,3,2199,6597,Success,Bengaluru,Placed
+ORD00016,2026-09-01 19:18:37,CUST0016,PRD1001,Bluetooth Speaker,Electronics,3,2199,6597,Success,Hyderabad,Placed
+ORD00017,2026-09-01 19:18:42,CUST0017,PRD1003,Running Shoes,Fashion,4,2499,9996,Pending,Delhi,Placed
+ORD00018,2026-09-01 19:18:47,CUST0018,PRD1002,Wireless Mouse,Electronics,1,899,899,Success,Mumbai,Placed
+ORD00019,2026-09-01 19:18:52,CUST0019,PRD1002,Wireless Mouse,Electronics,4,899,3596,Success,Hyderabad,Placed
+ORD00020,2026-09-01 19:18:57,CUST0020,PRD1002,Wireless Mouse,Electronics,3,899,2697,Success,Bengaluru,Placed

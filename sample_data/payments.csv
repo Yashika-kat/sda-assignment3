@@ -1,0 +1,21 @@
+Order_ID,Timestamp,Payment_Method,Amount,Payment_Status,Transaction_Type,Refund_Status
+ORD00001,2026-09-01 19:17:25,UPI,899,Success,Payment,Not Applicable
+ORD00002,2026-09-01 19:17:30,Net Banking,899,Success,Payment,Not Applicable
+ORD00003,2026-09-01 19:17:35,Credit Card,2499,Success,Payment,Not Applicable
+ORD00004,2026-09-01 19:17:40,Debit Card,8796,Failed,Payment,Not Applicable
+ORD00005,2026-09-01 19:17:45,Net Banking,8796,Pending,Payment,Not Applicable
+ORD00006,2026-09-01 19:17:50,UPI,6597,Success,Payment,Not Applicable
+ORD00007,2026-09-01 19:17:55,Debit Card,4398,Success,Payment,Not Applicable
+ORD00008,2026-09-01 19:18:00,Credit Card,2697,Success,Payment,Not Applicable
+ORD00009,2026-09-01 19:18:05,UPI,4998,Success,Payment,Not Applicable
+ORD00010,2026-09-01 19:18:10,Net Banking,2499,Success,Payment,Not Applicable
+ORD00011,2026-09-01 19:18:15,Net Banking,4998,Success,Payment,Not Applicable
+ORD00012,2026-09-01 19:18:20,UPI,1798,Success,Payment,Not Applicable
+ORD00013,2026-09-01 19:18:25,Net Banking,3596,Success,Payment,Not Applicable
+ORD00014,2026-09-01 19:18:30,Debit Card,2199,Failed,Payment,Not Applicable
+ORD00015,2026-09-01 19:18:35,Debit Card,6597,Success,Payment,Not Applicable
+ORD00016,2026-09-01 19:18:40,Credit Card,6597,Success,Payment,Not Applicable
+ORD00017,2026-09-01 19:18:45,Debit Card,9996,Pending,Payment,Not Applicable
+ORD00018,2026-09-01 19:18:50,Net Banking,899,Success,Payment,Not Applicable
+ORD00019,2026-09-01 19:18:55,Net Banking,3596,Success,Payment,Not Applicable
+ORD00020,2026-09-01 19:19:00,Net Banking,2697,Success,Payment,Not Applicable

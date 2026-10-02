@@ -1,0 +1,21 @@
+Product_ID,Product_Name,Warehouse_ID,Timestamp,Available_Stock,Reorder_Level,Stock_Status,Inventory_Update_Type
+PRD1002,Wireless Mouse,WH01,2026-09-01 19:17:24,27,20,In Stock,Order Reserved
+PRD1002,Wireless Mouse,WH02,2026-09-01 19:17:29,26,20,In Stock,Order Reserved
+PRD1003,Running Shoes,WH04,2026-09-01 19:17:34,59,20,In Stock,Order Reserved
+PRD1001,Bluetooth Speaker,WH03,2026-09-01 19:17:39,35,20,In Stock,Order Reserved
+PRD1001,Bluetooth Speaker,WH01,2026-09-01 19:17:44,31,20,In Stock,Order Reserved
+PRD1001,Bluetooth Speaker,WH03,2026-09-01 19:17:49,28,20,In Stock,Order Reserved
+PRD1001,Bluetooth Speaker,WH04,2026-09-01 19:17:54,26,20,In Stock,Order Reserved
+PRD1002,Wireless Mouse,WH02,2026-09-01 19:17:59,23,20,In Stock,Order Reserved
+PRD1003,Running Shoes,WH01,2026-09-01 19:18:04,57,20,In Stock,Order Reserved
+PRD1003,Running Shoes,WH03,2026-09-01 19:18:09,56,20,In Stock,Order Reserved
+PRD1003,Running Shoes,WH03,2026-09-01 19:18:14,54,20,In Stock,Order Reserved
+PRD1002,Wireless Mouse,WH04,2026-09-01 19:18:19,21,20,In Stock,Order Reserved
+PRD1002,Wireless Mouse,WH01,2026-09-01 19:18:24,17,20,Low Stock,Order Reserved
+PRD1001,Bluetooth Speaker,WH03,2026-09-01 19:18:29,25,20,In Stock,Order Reserved
+PRD1001,Bluetooth Speaker,WH02,2026-09-01 19:18:34,22,20,In Stock,Order Reserved
+PRD1001,Bluetooth Speaker,WH02,2026-09-01 19:18:39,19,20,Low Stock,Order Reserved
+PRD1003,Running Shoes,WH01,2026-09-01 19:18:44,50,20,In Stock,Order Reserved
+PRD1002,Wireless Mouse,WH01,2026-09-01 19:18:49,16,20,Low Stock,Order Reserved
+PRD1002,Wireless Mouse,WH02,2026-09-01 19:18:54,12,20,Low Stock,Order Reserved
+PRD1002,Wireless Mouse,WH03,2026-09-01 19:18:59,9,20,Low Stock,Order Reserved
